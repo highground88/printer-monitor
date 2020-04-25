@@ -55,7 +55,7 @@ Note: Using the links provided here help to support these types of projects. Tha
 
 ## Wiring for the Wemos D1 Mini to the I2C SSD1306 OLED
 SDA -> D2  
-SCL -> D5  
+SCL -> D1
 VCC -> 5V+  
 GND -> GND-  
 LED -> D3
