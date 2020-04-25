@@ -64,7 +64,7 @@ GND -> GND-
 
 LED -> D3
 
-![Printer Monitor Wire Diagram](/images/printer_monitor_wiring.jpg)  
+
 
 ## 3D Printed Case by Qrome:  
 https://www.thingiverse.com/thing:2884823 -- for the 0.96" OLED Display  
