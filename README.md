@@ -44,6 +44,7 @@ SOFTWARE.
 * Can query the Octoprint [PSU Control plugin](https://plugins.octoprint.org/plugins/psucontrol/) to enter clock or blank mode when PSU is off
 * Video: https://youtu.be/niRv9SCgAPk
 * Detailed build video by Chris Riley: https://youtu.be/Rm-l1FSuJpI
+* LED output on job complete to pin D3 (use a resistor to protect LED)
 
 ## Required Parts:
 * Wemos D1 Mini: https://amzn.to/2ImqD1n
@@ -57,6 +58,7 @@ SDA -> D2
 SCL -> D5  
 VCC -> 5V+  
 GND -> GND-  
+LED -> D3
 
 ![Printer Monitor Wire Diagram](/images/printer_monitor_wiring.jpg)  
 
